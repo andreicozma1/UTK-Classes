@@ -16,3 +16,6 @@
 [submodule "STEM"]
 	path = STEM
 	url = https://github.com/andreicozma1/STEM
+[submodule "CS366"]
+	path = CS366
+	url = git@github.com:andreicozma1/CS366.git
