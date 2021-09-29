@@ -1,0 +1,18 @@
+[submodule "CS361"]
+	path = CS361
+	url = git@github.com:andreicozma1/CS361.git
+[submodule "CS365"]
+	path = CS365
+	url = https://github.com/andreicozma1/CS365.git
+[submodule "CS465"]
+	path = CS465
+	url = https://github.com/andreicozma1/CS465
+[submodule "CS523"]
+	path = CS523
+	url = https://github.com/andreicozma1/CS523
+[submodule "ECE469"]
+	path = ECE469
+	url = git@github.com:andreicozma1/ECE469.git
+[submodule "STEM"]
+	path = STEM
+	url = https://github.com/andreicozma1/STEM
