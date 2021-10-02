@@ -1,21 +1,39 @@
 [submodule "CS361"]
-	path = CS361
-	url = git@github.com:andreicozma1/CS361.git
+path = CS361
+url = git@github.com:andreicozma1/CS361.git
 [submodule "CS365"]
-	path = CS365
-	url = https://github.com/andreicozma1/CS365.git
+path = CS365
+url = git@github.com:andreicozma1/CS365.git
 [submodule "CS465"]
-	path = CS465
-	url = https://github.com/andreicozma1/CS465
+path = CS465
+url = git@github.com:andreicozma1/CS465.git
 [submodule "CS523"]
-	path = CS523
-	url = https://github.com/andreicozma1/CS523
+path = CS523
+url = git@github.com:andreicozma1/CS523.git
 [submodule "ECE469"]
-	path = ECE469
-	url = git@github.com:andreicozma1/ECE469.git
+path = ECE469
+url = git@github.com:andreicozma1/ECE469.git
 [submodule "STEM"]
-	path = STEM
-	url = https://github.com/andreicozma1/STEM
+path = STEM
+url = git@github.com:andreicozma1/STEM.git
 [submodule "CS366"]
-	path = CS366
-	url = git@github.com:andreicozma1/CS366.git
+path = CS366
+url = git@github.com:andreicozma1/CS366.git
+[submodule "CS522"]
+path = CS522
+url = git@github.com:andreicozma1/CS522.git
+[submodule "CS360"]
+path = CS360
+url = git@github.com:andreicozma1/CS360.git
+[submodule "CS307"]
+path = CS307
+url = git@github.com:andreicozma1/CS307.git
+[submodule "CS370"]
+path = CS370
+url = git@github.com:andreicozma1/CS370.git
+[submodule "CS130"]
+path = CS130
+url = git@github.com:andreicozma1/CS130.git
+[submodule "CS102"]
+path = CS102
+url = git@github.com:andreicozma1/CS102.git
