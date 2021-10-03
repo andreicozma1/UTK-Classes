@@ -32,5 +32,8 @@ url = git@github.com:andreicozma1/CS130.git
 path = CS102
 url = git@github.com:andreicozma1/CS102.git
 [submodule "CS360"]
-	path = CS360
-	url = git@github.com:andreicozma1/CS360.git
+path = CS360
+url = git@github.com:andreicozma1/CS360.git
+[submodule "CS523"]
+path = CS523
+url = git@github.com:andreicozma1/CS523.git
