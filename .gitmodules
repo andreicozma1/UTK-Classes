@@ -37,3 +37,21 @@ url = git@github.com:andreicozma1/CS360.git
 [submodule "CS523"]
 path = CS523
 url = git@github.com:andreicozma1/CS523.git
+[submodule "Smart-Ledger"]
+	path = Smart-Ledger
+	url = git@github.com:CS401-Team-Project/Smart-Ledger.git
+[submodule "CS420"]
+	path = CS420
+	url = git@github.com:andreicozma1/CS420.git
+[submodule "CS466"]
+	path = CS466
+	url = git@github.com:andreicozma1/CS466.git
+[submodule "CS525"]
+	path = CS525
+	url = git@github.com:andreicozma1/CS525.git
+[submodule "ECE462"]
+	path = ECE462
+	url = git@github.com:andreicozma1/ECE462.git
+[submodule "UTK-COSC426and526-S22"]
+	path = UTK-COSC426and526-S22
+	url = git@github.com:CISC879-BigData/UTK-COSC426and526-S22.git
