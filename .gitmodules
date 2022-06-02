@@ -1,57 +1,111 @@
-[submodule "CS361"]
-path = CS361
-url = git@github.com:andreicozma1/CS361.git
-[submodule "CS365"]
-path = CS365
-url = git@github.com:andreicozma1/CS365.git
-[submodule "CS465"]
-path = CS465
-url = git@github.com:andreicozma1/CS465.git
-[submodule "ECE469"]
-path = ECE469
-url = git@github.com:andreicozma1/ECE469.git
-[submodule "STEM"]
-path = STEM
-url = git@github.com:andreicozma1/STEM.git
-[submodule "CS366"]
-path = CS366
-url = git@github.com:andreicozma1/CS366.git
-[submodule "CS522"]
-path = CS522
-url = git@github.com:andreicozma1/CS522.git
-[submodule "CS307"]
-path = CS307
-url = git@github.com:andreicozma1/CS307.git
-[submodule "CS370"]
-path = CS370
-url = git@github.com:andreicozma1/CS370.git
-[submodule "CS130"]
-path = CS130
-url = git@github.com:andreicozma1/CS130.git
 [submodule "CS102"]
 path = CS102
 url = git@github.com:andreicozma1/CS102.git
+update = merge
+branch = main
+
+[submodule "CS130"]
+path = CS130
+url = git@github.com:andreicozma1/CS130.git
+update = merge
+branch = main
+
+
+[submodule "CS140"]
+path = CS140
+url = git@github.com:andreicozma1/CS140.git
+update = merge
+branch = main
+
+[submodule "CS307"]
+path = CS307
+url = git@github.com:andreicozma1/CS307.git
+update = merge
+branch = main
+
 [submodule "CS360"]
 path = CS360
 url = git@github.com:andreicozma1/CS360.git
+update = merge
+branch = main
+
+[submodule "CS361"]
+path = CS361
+url = git@github.com:andreicozma1/CS361.git
+update = merge
+branch = main
+
+[submodule "CS365"]
+path = CS365
+url = git@github.com:andreicozma1/CS365.git
+update = merge
+branch = main
+
+[submodule "CS366"]
+path = CS366
+url = git@github.com:andreicozma1/CS366.git
+update = merge
+branch = main
+
+[submodule "CS370"]
+path = CS370
+url = git@github.com:andreicozma1/CS370.git
+update = merge
+branch = main
+
+[submodule "CS420"]
+path = CS420
+url = git@github.com:andreicozma1/CS420.git
+update = merge
+branch = main
+
+[submodule "ECE462"]
+path = ECE462
+url = git@github.com:andreicozma1/ECE462.git
+update = merge
+branch = main
+
+[submodule "CS465"]
+path = CS465
+url = git@github.com:andreicozma1/CS465.git
+update = merge
+branch = main
+
+[submodule "CS466"]
+path = CS466
+url = git@github.com:andreicozma1/CS466.git
+update = merge
+branch = main
+
+[submodule "ECE469"]
+path = ECE469
+url = git@github.com:andreicozma1/ECE469.git
+update = merge
+branch = main
+
+[submodule "CS522"]
+path = CS522
+url = git@github.com:andreicozma1/CS522.git
+update = merge
+branch = main
+
 [submodule "CS523"]
 path = CS523
 url = git@github.com:andreicozma1/CS523.git
-[submodule "Smart-Ledger"]
-	path = Smart-Ledger
-	url = git@github.com:CS401-Team-Project/Smart-Ledger.git
-[submodule "CS420"]
-	path = CS420
-	url = git@github.com:andreicozma1/CS420.git
-[submodule "CS466"]
-	path = CS466
-	url = git@github.com:andreicozma1/CS466.git
+update = merge
+branch = main
+
 [submodule "CS525"]
-	path = CS525
-	url = git@github.com:andreicozma1/CS525.git
-[submodule "ECE462"]
-	path = ECE462
-	url = git@github.com:andreicozma1/ECE462.git
-[submodule "UTK-COSC426and526-S22"]
-	path = UTK-COSC426and526-S22
-	url = git@github.com:CISC879-BigData/UTK-COSC426and526-S22.git
+path = CS525
+url = git@github.com:andreicozma1/CS525.git
+update = merge
+branch = main
+
+
+
+
+
+
+
+
+
