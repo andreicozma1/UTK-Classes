@@ -99,3 +99,12 @@ path = CS525-Deep-Learning
 url = git@github.com:andreicozma1/CS525-Deep-Learning.git
 update = merge
 branch = main
+[submodule "CS530-Computer-Systems-Organization"]
+	path = CS530-Computer-Systems-Organization
+	url = git@github.com:andreicozma1/CS530-Computer-Systems-Organization.git
+[submodule "CS562-OperatingSystems-Design-Impl"]
+	path = CS562-OperatingSystems-Design-Impl
+	url = git@github.com:andreicozma1/CS562-OperatingSystems-Design-Impl.git
+[submodule "ECE517-Reinforcement-Learning"]
+	path = ECE517-Reinforcement-Learning
+	url = git@github.com:andreicozma1/ECE517-Reinforcement-Learning.git
