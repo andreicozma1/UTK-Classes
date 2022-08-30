@@ -10,5 +10,7 @@
 			"path": "CS562-OperatingSystems-Design-Impl"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"makefile.extensionOutputFolder": "./.vscode"
+	}
 }
